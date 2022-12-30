@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ketchup08
-- 👀 I’m interested in ...Data Analytics  
-- 🌱 I’m currently learning ...Data Modeling
-- 💞️ I’m looking to collaborate on ...Data Analysis 
+- 👀 I’m interested in ...Python and Backend development 
+- 💞️ I’m looking to collaborate on ... Fullstack projects
 - 📫 How to reach me ...email me -kratikagupta0802@gmail.com
 
 <!---
